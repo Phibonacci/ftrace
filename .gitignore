@@ -1,0 +1,6 @@
+*~
+strace
+ftrace
+a.out
+*.o
+build
